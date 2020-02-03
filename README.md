@@ -1,2 +1,2 @@
 # Project_GymShark
-School project at hetic
+School project at Hetic
